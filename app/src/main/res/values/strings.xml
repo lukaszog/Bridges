@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="graj">Graj!</string>
+    <string name="zasady">zasady gry</string>
+    <string name="opcje">Opcje</string>
+    <string name="wyjscie">Wyjscie</string>
+
+    <string name="opis_zasad">Okragle pola z liczbami symbolizuja wyspy nalezy je wszystkie ze soba polaczyc liniami czyli tak zwanymi mostami przestrzegajac nastepujacych zasad:\n\n
+    - Liczby mozna laczyc jedynie poziomo i pionowo\n
+    - Liczba danej wyspy okresla ile moze miec maksymalnie polaczen\n\n
+    - Od jednej wyspy do drugiej moga istniec jedynie dwa polaczenia</string>
+</resources>
+
+
